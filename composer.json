@@ -1,11 +1,16 @@
 {
-    "name": "nikolay-oskin/contents",
+    "name": "hemengeliriz/contents",
     "description": "Table of contents generator Laravel package for posts, news, articles or any other text",
     "keywords": ["laravel", "laravel-contents", "table-of-contents", "contents"],
     "authors": [
         {
             "name": "Nikolay Oskin",
             "email": "nickolayoskin@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Arda Günsüren",
+            "email": "ardagnsrn@gmail.com",
             "role": "Developer"
         }
     ],
@@ -22,7 +27,7 @@
         }
     },
     "require": {
-        "php": "^7.0",
+        "php": "^8.0",
         "illuminate/support": "5.5.*"
     },
     "require-dev": {
